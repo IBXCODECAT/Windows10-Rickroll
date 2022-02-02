@@ -1,6 +1,6 @@
 # Windows10 Rickroll
  
-#### Hey! Look at you! Your'e actually reading the REAMDE! Most people fail to do that!
+#### Hey! Look at you! You're actually reading the REAMDE! Most people fail to do that!
 
 Hello World! This was a project that I started because I was bored and just wanted to have some fun!
 
